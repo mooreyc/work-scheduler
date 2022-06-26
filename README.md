@@ -4,7 +4,7 @@
 ```
 This application allows for the user to plan out their work day's events by the hour and save them. 
 ```
-![image](https://user-images.githubusercontent.com/105884236/175352066-f249d581-22ea-463b-a404-8c953b9a5eac.png)
+![image](https://user-images.githubusercontent.com/105884236/175827112-5d63f235-31d1-4f2e-9a4d-faf1b05b958b.png)
 
 ## USER STORY
 ```
